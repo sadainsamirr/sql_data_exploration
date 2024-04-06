@@ -23,4 +23,4 @@ The SQL queries provided in this repository are aimed at exploring various aspec
 
 ## Dataset Source
 
-The original dataset used in this analysis can be found at [PortfolioProject..CovidDeaths]().https://github.com/owid/covid-19-data
+The original dataset used in this analysis can be found at https://github.com/owid/covid-19-data
